@@ -1,3 +1,2 @@
-# Codewars
-# Codewars
-# Codewars
+# Codewars_JavaScript_7kyu
+
